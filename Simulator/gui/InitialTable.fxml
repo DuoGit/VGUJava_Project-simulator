@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.ShowTable">
+   <children>
+      <TableView fx:id="tableView" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+         <columns>
+            <TableColumn fx:id="name" prefWidth="75.0" text="Name" />
+            <TableColumn fx:id="status" prefWidth="75.0" text="Status" />
+            <TableColumn fx:id="power" prefWidth="75.0" text="Power" />
+            <TableColumn fx:id="maxPower" prefWidth="116.0" text="MaxPower" />
+            <TableColumn fx:id="minPower" prefWidth="94.0" text="MinPower" />
+            <TableColumn fx:id="maxChange" prefWidth="117.0" text="MaxChange" />
+            <TableColumn fx:id="minChange" prefWidth="105.0" text="MinChange" />
+         </columns>
+      </TableView>
+   </children>
+</AnchorPane>
