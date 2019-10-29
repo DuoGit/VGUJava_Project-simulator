@@ -225,14 +225,14 @@ public interface IControl {
 
   * **Total points: 150**
   
-  * **Practical Tasks (final presentation)**
+  * **Practical Tasks (final presentation)** (50)
     * Show scenario 1                             (10)
     * Show scenario 2                             (10)
     * Exchange a library with another groups      (10)
     * Complete all unit test cases                (10)
     * Show the additional task                    (10)
     
-  * **Documentation (written report)
+  * **Documentation (written report)** (50)
     * Presentation (e.g. figures, format, document organization)    (10)
     * Describtion of Architecture (Concepts, Structure, Interfaces) (10)
     * Code Documentation (Input/Output, Control Flow, Classes)      (10)
@@ -241,3 +241,12 @@ public interface IControl {
     
   * **Other**  (50)
     * Other Points are given for e.g. project management, innovative extensions or exceptional effords in other areas (to the group or individual students).
+
+# Report
+The final report of the project can be referenced [here](https://drive.google.com/file/d/1zqmGspBxraEgYffHtDLi6iK_w93prwyo/view?usp=sharing).
+
+# Authors
+  * Hoang Thai Duong
+  * Nguyen Hai Duc
+  * Nguyen The Viet
+  * Tra Ngoc Nguyen
